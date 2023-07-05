@@ -151,6 +151,5 @@ color: var(--cor-secundaria);
 }
 
  a:hover{
-    color: var(--botao-azul);
     text-decoration: underline;
 }
