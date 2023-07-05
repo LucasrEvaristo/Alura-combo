@@ -150,6 +150,14 @@ color: var(--cor-secundaria);
     margin: 1.4em;
 }
 
+.container__descricao > a:hover{
+    box-shadow: 2px 2px 2px white;
+}
+
+.container__caixa > a:hover{
+    box-shadow: 2px 2px 2px white;
+}
  a:hover{
     text-decoration: underline;
+
 }
