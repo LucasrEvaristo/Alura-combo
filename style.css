@@ -149,3 +149,8 @@ color: var(--cor-secundaria);
     font-size: 14px;
     margin: 1.4em;
 }
+
+ a:hover{
+    color: var(--botao-azul);
+    text-decoration: underline;
+}
